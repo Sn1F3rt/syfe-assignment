@@ -1,7 +1,7 @@
 # Syfe QA Intern Assignment
 
-[![Ruff](https://github.com/Sn1F3rt/syfe-ssignment/actions/workflows/ruff.yml/badge.svg)](https://github.com/Sn1F3rt/syfe-ssignment/actions/workflows/ruff.yml)
-[![License](https://img.shields.io/github/license/Sn1F3rt/syfe-ssignment)](LICENSE)
+[![Ruff](https://github.com/Sn1F3rt/syfe-assignment/actions/workflows/ruff.yml/badge.svg)](https://github.com/Sn1F3rt/syfe-assignment/actions/workflows/ruff.yml)
+[![License](https://img.shields.io/github/license/Sn1F3rt/syfe-assignment)](LICENSE)
 
 ## Table of Contents
 
@@ -13,11 +13,11 @@
 
 ## About
 
-QA Intern assignment for [Syfe](https://syfe.com).
+QA Intern assignment for [Syfe](https://syfe.com). Automates key workflows on the [SauceDemo website](https://www.saucedemo.com/).
 
 ## Demo
 
-_TODO_
+https://github.com/user-attachments/assets/8ee82396-b6f9-4f93-a46a-a8886bd999d9
 
 ## Pre-requisites
 
